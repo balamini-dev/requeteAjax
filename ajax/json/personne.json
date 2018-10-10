@@ -1,0 +1,54 @@
+[
+    {
+        "nom":"Karine",
+        "dateNaissance":"16/04/1990",
+        "notes": [
+            {
+                "matiere":"anglais",
+                "notes":14
+            },
+            {
+                "matiere":"maths",
+                "notes":17
+            },
+            {
+                "matiere":"phylosophie",
+                "notes":16
+            }
+        ]
+    },{
+        "nom":"Célia",
+        "dateNaissance":"09/05/1995",
+        "notes": [
+            {
+                "matiere":"anglais",
+                "notes":18
+            },
+            {
+                "matiere":"maths",
+                "notes":16
+            },
+            {
+                "matiere":"phylosophie",
+                "notes":14
+            }
+        ]
+    },{
+        "nom":"Christophe",
+        "dateNaissance":"09/09/1997",
+        "notes": [
+            {
+                "matiere":"anglais",
+                "notes":14
+            },
+            {
+                "matiere":"maths",
+                "notes":20
+            },
+            {
+                "matiere":"phylosophie",
+                "notes":18
+            }
+        ]
+    }
+]

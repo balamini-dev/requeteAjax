@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+  <email>
+    <to>Stephane</to>
+    <from>Johann</from>
+    <object>Rappel</object>
+    <message>Rendez-vous ce soir!</message>
+  </email>
+  <email>
+    <to>Jeff</to>
+    <from>Eden</from>
+    <object>RE:Bonjour</object>
+    <message>Hello, alors quoi de neuf ?</message>
+  </email>
+</emails>
